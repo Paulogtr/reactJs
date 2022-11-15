@@ -29,6 +29,26 @@
       "name": "teclado",
       "price": "199.0",
       "id": 6
+    },
+    {
+      "name": "mouse",
+      "price": "10,99",
+      "id": 7
+    },
+    {
+      "name": "custom hook",
+      "price": "9,99",
+      "id": 8
+    },
+    {
+      "name": "fone",
+      "price": "2.50",
+      "id": 9
+    },
+    {
+      "name": "microfone",
+      "price": "10,49",
+      "id": 10
     }
   ]
 }
