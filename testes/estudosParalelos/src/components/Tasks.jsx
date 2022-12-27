@@ -9,6 +9,7 @@ const Tasks = ({data}) => {
                <p>{datas.title} + {datas.id}</p>
             ))
          } 
+         <hr />
     </div>
   )
 }
