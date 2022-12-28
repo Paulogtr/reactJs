@@ -12,6 +12,7 @@ function App() {
     }
     setEixo((prev) => [...prev, newCirclo]);
     console.log(newCirclo)
+    setUndid([])
   }
 
   const handleUndo = (e) => {
